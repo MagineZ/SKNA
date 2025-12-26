@@ -1,13 +1,5 @@
 clear ; close all
 
-addpath('/Users/hautiengwu/Dropbox/___working tex since 20221228/_WORKING SKNA/code') ;
-addpath('/Users/hautiengwu/Dropbox/code/fecgsyn-master/subfunctions/extraction-methods') ;
-addpath('/Users/hautiengwu/Dropbox/code/fecgsyn-master/subfunctions/extraction-methods/libs') ;
-addpath('/Users/hautiengwu/Dropbox/code/fecgsyn-master/subfunctions/extraction-methods/libs/EKF') ;
-addpath('/Users/hautiengwu/Dropbox/code/fecgsyn-master/subfunctions/extraction-methods/libs/ESNTOOL') ;
-addpath('/Users/hautiengwu/Dropbox/code/fecgsyn-master/subfunctions/extraction-methods/libs/FECGESN') ;
-
-
 scrsz = get(0,'ScreenSize') ;
 
 
