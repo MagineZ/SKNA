@@ -1,10 +1,5 @@
 clear ; close all
 
-% load all needed codes.
-addpath('C:\Users\magin\OneDrive\Documents\Skin_electric_cardiacsignal_removal\code') ;
-addpath('C:\Users\magin\OneDrive\Documents\Skin_electric_cardiacsignal_removal\code\UNSW') ;
-addpath(genpath('C:\Users\magin\Downloads\Code Archive3\fecgsyn\fecgsyn-master\subfunctions\extraction-methods'))
-addpath(genpath('C:\Users\magin\Downloads\ecg-kit-0.1.6\ecg-kit-0.1.6'))
 
 scrsz = get(0,'ScreenSize') ;
 % use SimulateSKNA to generate SKNA
